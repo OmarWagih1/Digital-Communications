@@ -144,6 +144,3 @@ QAM conveys two analog message signals, or two digital bit streams, by changing 
 * Without Raised Cosine Filter
 
     ![BER Diagram](/QAM64/BerFigure.png)
-
-
-
