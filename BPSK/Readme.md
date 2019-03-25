@@ -10,18 +10,18 @@ BPSK is the simplest form of phase shift keying (PSK). It uses two phases which 
 ### - Before Additive Noise Channel
 * Without Raised Cosine Filter:
 
-    ![Regular](/Digital-Communications/BPSK/BeforeChannel.png) 
+    ![Regular](/BPSK/BeforeChannel.png) 
 * With Raised Cosine Filter:
 
     ![Raised Cosine Filter](/Digital-Communications/BPSK/BeforeChannelRaisedCosine.png) 
 ### - After Additive Noise Channel
 * Without Raised Cosine Filter: 
 
-    ![Regular](/Digital-Communications/BPSK/AfterChannel.png) 
+    ![Regular](/BPSK/AfterChannel.png) 
 * With Raised Cosine Filter:
 
-    ![Raised Cosine Filter](/Digital-Communications/BPSK/AfterChannelRaisedCosine.png) 
+    ![Raised Cosine Filter](/BPSK/AfterChannelRaisedCosine.png) 
 ### - BER Diagram
 * Without Raised Cosine Filter
 
-    ![BER Diagram](/Digital-Communications/BPSK/BerFigure.png)
+    ![BER Diagram](/BPSK/BerFigure.png)
