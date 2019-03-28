@@ -6,6 +6,10 @@
 The simulation is done on different initial random seeds, mostly either 15 or 67. Noise level is set to 10 Db for the scatter plots and Ber Figure is done on [-10,10] Db
 Sample time is 0.7 with 100 samples per frame. The set size is 2 with 0 phase offset.
 
+To Replicate the Ber Graph:
+Open Matlab Console, type in bertool, this will open the bertool window , in the monte carlo tab choose the SLX filer and the range 
+and press run.
+
 ### - Definition 
 BPSK is the simplest form of phase shift keying (PSK). It uses two phases which are separated by 180° and so can also be termed 2-PSK. The channel used is an Additive white gaussian noise.
 
