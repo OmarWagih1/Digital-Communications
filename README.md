@@ -127,7 +127,7 @@ QAM conveys two analog message signals, or two digital bit streams, by changing 
     ![BER Diagram](/QAM16/BerFigure.png)
 * With Raised Cosine Filter
 
-    ![BER Diagram](/QAM64/BerCos.png)
+    ![BER Diagram](/QAM16/BerCos.png)
 	
 ## **Quadrature amplitude modulation (QAM64)**
 	
